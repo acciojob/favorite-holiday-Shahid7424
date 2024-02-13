@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+/* Add your styles here */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+h2 {
+  margin-top: 1.5rem;
+}
+
+ol, ul {
+  margin-left: 2rem;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
